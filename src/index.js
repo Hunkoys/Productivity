@@ -1,3 +1,3 @@
 import app from "./app/app";
 
-console.log(app);
+document.getElementById(`main`).appendChild(app);
